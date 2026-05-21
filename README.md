@@ -69,10 +69,10 @@ mv SKILL.en.md SKILL.md
 
 ## Status
 
-Field-tested once on the author's own Sedna project workload (7 open PRs,
-10 open issues, 6 worktrees) and produced useful, accurate output. It has
-*not* yet been through formal RED-GREEN-REFACTOR skill testing
-(`superpowers:writing-skills` methodology). PRs welcome.
+Field-tested once on a real collaboration workload (7 open PRs, 10 open
+issues, 6 worktrees on a single project) and produced useful, accurate
+output. It has *not* yet been through formal RED-GREEN-REFACTOR skill
+testing (`superpowers:writing-skills` methodology). PRs welcome.
 
 ## License
 
@@ -145,9 +145,9 @@ mv SKILL.en.md SKILL.md
 
 ## 状态
 
-在作者的 Sedna 项目工作场景下(7 个 open PR、10 个 open issue、6 个 worktree)
-实地跑过一次,产出有用且准确。**没有**走过完整的 RED-GREEN-REFACTOR
-skill 测试(`superpowers:writing-skills` 方法论)。欢迎 PR。
+在一次真实的协作场景下(单个项目里 7 个 open PR、10 个 open issue、
+6 个 worktree)实地跑过一次,产出有用且准确。**没有**走过完整的
+RED-GREEN-REFACTOR skill 测试(`superpowers:writing-skills` 方法论)。欢迎 PR。
 
 ## License
 
