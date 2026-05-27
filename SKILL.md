@@ -1,12 +1,11 @@
 ---
 name: myload
 description: >
-  Use when 用户在某个 git + GitHub 协作项目里同时有多个 open PR / open issue
-  和多个本地 git worktree,感到"不知道哪些事在飞""不敢关终端怕丢东西""被
-  review 评论压得喘不过气""worktree 不知道哪些该清";或用户说"盘点一下""我
-  能关哪些终端""哪些 PR 卡住了""too many open PRs""don't know which
-  terminals to close""which worktrees can I remove"。也适用于用户输入
-  /myload 或 /myload <自然语言>。
+  Use when 用户说"盘点一下""不知道哪些事在飞""不敢关终端怕丢东西""被 review
+  评论压得喘不过气""哪些 PR 卡住了""我能关哪些终端""哪些 worktree 该清""too
+  many open PRs""which terminals can I close""which worktrees can I remove";
+  或用户在 git + GitHub 协作项目里同时挂着多个 open PR / open issue / 本地
+  worktree、感到被淹没;或输入 /myload 或 /myload <自然语言>。
 ---
 
 # /myload —— 协作者工作量盘点

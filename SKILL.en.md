@@ -1,14 +1,12 @@
 ---
 name: myload
 description: >
-  Use when a collaborator on a git + GitHub project has multiple open PRs /
-  issues plus multiple local git worktrees, and feels overwhelmed: "I don't
-  know what's still in flight", "I'm afraid to close terminals", "the review
-  backlog is crushing me", "I don't know which worktrees to clean up"; or
-  says things like "give me a status report", "which terminals can I close",
-  "which PRs are stuck", "should I clean up worktrees", "盘点一下", "我能关
-  哪些终端". Also applies when the user types /myload or /myload <freeform
-  direction>.
+  Use when the user says things like "give me a status report", "I don't know
+  what's still in flight", "I'm afraid to close terminals", "the review backlog
+  is crushing me", "which PRs are stuck", "which terminals can I close", "which
+  worktrees should I clean up", "too many open PRs", "盘点一下", "我能关哪些终端";
+  or has multiple open PRs / issues / local git worktrees on a git + GitHub
+  project and feels overwhelmed; or types /myload or /myload <freeform direction>.
 ---
 
 # /myload —— Collaborator Workload Triage
